@@ -1,0 +1,10 @@
+{
+  "serverSocketAddress":"127.0.0.1",
+  "clientAddress":"127.0.0.1",
+  "multicastAddress":"224.0.0.1",
+  "clientSocketPort":"9099",
+  "serverSocketPort":"9098",
+  "multicastPort":"9095",
+  "RMIClientPort":"35013",
+  "RMIServerPort":"35009"
+}

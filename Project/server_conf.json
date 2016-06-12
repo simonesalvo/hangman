@@ -1,0 +1,6 @@
+{
+  "maxGameNumber":"10",
+  "serverSocketAddress":"127.0.0.1",
+  "serverSocketPort":"9098",
+  "RMIServerPort":"35009"
+}
